@@ -1,0 +1,31 @@
+h1 {
+    font-family: Brush Script MT, Garamond, serif;
+    font-size: 100px;
+    font-weight: 300;
+    color:blue;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+}
+
+h4 {
+    color:blueviolet;
+}
+
+body {
+    font-family: Courier;
+    background-color: aquamarine;
+}
+
+#cv {
+    color:darkorchid;
+}
+
+.intro {
+    text-align: left;
+    text-wrap: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+    background-color: rgba(0,0,255,0.3);
+}
